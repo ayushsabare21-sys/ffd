@@ -1,0 +1,6 @@
+{
+  "name": "PaisaWise",
+  "description": "Intern expense manager and daily budget tracker for ₹15,000 stipend with split rent, salary logs, spending analytics, and AI financial advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

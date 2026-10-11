@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Wallet base body centered around 54, 54 -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M30,38 L78,38 A6,6 0 0,1 84,44 L84,70 A6,6 0 0,1 78,76 L30,76 A6,6 0 0,1 24,70 L24,44 A6,6 0 0,1 30,38 Z" />
+        
+    <!-- Front flap of wallet with darker accent -->
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M24,47 L76,47 A4,4 0 0,1 80,51 L80,72 A4,4 0 0,1 76,76 L24,76 Z" />
+        
+    <!-- Card peeking out from wallet -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M34,32 L74,32 A3,3 0 0,1 77,35 L77,38 L31,38 L31,35 A3,3 0 0,1 34,32 Z" />
+
+    <!-- Wallet clasp/buckle with Indian Rupee symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,52 L78,52 A5,5 0 0,1 83,57 L83,63 A5,5 0 0,1 78,68 L64,68 A2,2 0 0,1 62,66 L62,54 A2,2 0 0,1 64,52 Z" />
+
+    <!-- Gold coin on clasp -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M73,60 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+
+    <!-- Rupee symbol details in white on the wallet front -->
+    <!-- Top bar 1 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,52 L48,52 L48,54 L36,54 Z" />
+    <!-- Top bar 2 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,56 L47,56 L47,58 L36,58 Z" />
+    <!-- Rupee curve and leg -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,54 L44,54 C46,54 47.5,55 47.5,57 C47.5,59 46,60 44,60.5 L40,60.5 L40,58.5 L43.5,58.5 C44.5,58.5 45.2,58 45.2,57 C45.2,56 44.5,55.5 43.5,55.5 L40,55.5 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,60 L48,68 L45.5,68 L39.5,60 Z" />
+
+    <!-- Savings Growth Sparkle -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M78,28 L80,24 L82,28 L86,30 L82,32 L80,36 L78,32 L74,30 Z" />
+</vector>
